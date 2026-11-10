@@ -119,3 +119,4 @@ with a name allows that one name only.
 | `hermes_cli.plugin_session` | `session_client` | user-guide/features/plugins.md § Plugin code inside the gateway: which client created the session |
 | `hermes_cli.chat_launch` | whole module | user-guide/features/plugins.md § A plugin with its own chat client |
 | `hermes_cli.gateway_chat` | `shell_client_env` | user-guide/features/plugins.md § A plugin with its own chat client |
+| `hermes_cli.session_worktree` | whole module | user-guide/features/plugins.md § A plugin with its own chat client |
